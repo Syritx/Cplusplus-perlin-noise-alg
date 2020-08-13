@@ -11,6 +11,8 @@ using namespace std;
 namespace custom_noise_algorithm {
 
     class vec3 {
+        
+    // stores the coordinates to reuse later
     public:
         int x,z;
         float y;
